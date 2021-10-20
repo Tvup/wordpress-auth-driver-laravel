@@ -1,5 +1,5 @@
 {
-    "name": "tvup/wordpress-auth-provider",
+    "name": "tvup/wordpress-auth-driver-laravel",
     "description": "A package to provide wordpress users in laravel authentication system.",
     "keywords": ["laravel", "wordpress", "authentication"],
     "type": "library",
